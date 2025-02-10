@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <title>Happy Vallentine</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+    </head>
+    <body class="backround" style="background-color: palevioletred;">
+        <div class="d-flex mx-auto align-items-center justify-content-center vh-100">
+            <div class="card" style="width: 20rem; background-color: pink;">
+            <div class="card-body">
+            <form action="/sesi/login" method="POST">
+                <div class="d-flex justify-content-center">
+                    <img src="https://www.nicepng.com/png/detail/116-1161011_creative-heart-logo-png-svg-love-logo-png.png" alt="Creative Heart Logo Png, Svg - Love Logo Png@nicepng.com">
+                </div>
+                <br>
+                <div class="text-center text-white">
+                    Haii sayangkuuu cintakuuuu Happy Vallentine yaaaaa
+                </div>
+                <br>
+                <div class="d-flex justify-content-center">
+                    <nav class="navbar bg-tertiary">
+                        <div class="container-fluid">
+                          <a class="navbar text-white" href="ucapan.html" style="background-color: pink;">KLIKK DISINII SAYANGGKUUU</a>
+                        </div>
+                      </nav>                      
+                </div>
+                <br>
+                </div>
+            </form>
+        </div> 
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
